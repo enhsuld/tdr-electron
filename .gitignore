@@ -1,0 +1,9 @@
+target
+.idea
+upload-dir
+bin
+.settings
+.vscode/
+!target/classes
+node_modules/
+release-builds
